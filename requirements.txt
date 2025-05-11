@@ -1,0 +1,8 @@
+# 核心依赖
+
+streamlit>=1.25.0
+pandas>=1.5.0
+plotly>=5.14.0
+openpyxl>=3.0.10        # Excel 读取支持
+pyecharts>=1.10.1       # v2 ECharts 渲染使用
+jinja2>=3.1.2           # pyecharts 依赖
